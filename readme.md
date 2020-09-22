@@ -8,10 +8,10 @@ A full stack developer from chennai🇮🇳 , who loves to transform ideas into 
 
 ### I'm Currently
 
-- ⚛️ &nbsp Working with react, nodejs, expressjs.
-- 📚 &nbsp Learning full stack development.
-- 📱 &nbsp Exploring hybrid apps development.
-- 👷‍♂️ &nbsp Building some cool applications on MERN stack.
+- ⚛️ Working with react, nodejs, expressjs.
+- 📚 Learning full stack development.
+- 📱 Exploring hybrid apps development.
+- 👷‍♂️ Building some cool applications on MERN stack.
 
 ### Languages and Tools:
 
