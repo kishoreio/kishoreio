@@ -2,7 +2,7 @@
 
 ## I'm [Kishore][homepage]
 
-A full stack developer from chennai🇮🇳 , who loves to transform ideas into reality using code. I'm ⚡energetic, eager to learn new skills, squeezing by brain with 💡 innovative ideas and use a 🤔 creative approach for problem solving. I'm always 🤯 highly enthused about my work and tasks ahead and 📚 committed to learning and 👨‍💻 self-development so that i can consistently achieve better results.
+A full stack developer from chennai🇮🇳 , who loves to transform ideas into reality using code. I'm ⚡energetic, eager to learn new skills, squeezing by brain with 💡 innovative ideas and use a 🤔 creative approach for problem solving. I'm always 🤯 highly enthused about my work and 📚 committed to learning and 👨‍💻 self-development so that i can consistently achieve better results.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kishoreio?style=for-the-badge&logo=twitter&label=Follow%20me%20on%20Twitter&color=1DA1F2)][twitter]
 
