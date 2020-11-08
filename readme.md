@@ -8,6 +8,7 @@ A full stack developer from chennai🇮🇳 , who loves to transform ideas into 
 
 ### I'm Currently
 
+- 👨‍💻 Junior software developer at Insent Inc.
 - ⚛️ Working with react, nodejs, expressjs.
 - 📚 Learning full stack development.
 - 📱 Exploring hybrid apps development.
